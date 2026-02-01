@@ -21,4 +21,5 @@ I am an undergraduate student in Electronics and Communication Engineering with 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harilp&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=Harilp&label=Profile%20views&color=0e75b6&style=flat)
+
