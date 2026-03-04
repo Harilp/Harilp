@@ -14,9 +14,7 @@ I am an undergraduate student in Electronics and Communication Engineering with 
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harilp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+![](https://github-contributor-stats.vercel.app/api?username=Harilp&limit=5&theme=dark&combine_all_yearly_contributions=true)---
 [![](https://visitcount.itsvg.in/api?id=Harilp&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harilp&label=Profile%20views&color=0e75b6&style=flat)
