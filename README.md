@@ -12,9 +12,7 @@ I am an undergraduate student in Electronics and Communication Engineering with 
 ![](https://nirzak-streak-stats.vercel.app/?user=Harilp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harilp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harilp&limit=5&theme=dark&combine_all_yearly_contributions=true)---
+---
 [![](https://visitcount.itsvg.in/api?id=Harilp&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harilp&label=Profile%20views&color=0e75b6&style=flat)
