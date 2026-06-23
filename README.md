@@ -1,4 +1,4 @@
-# Hi👋
+# Hi!
 I am an undergraduate student in Electronics and Communication Engineering with a focused interest in embedded systems and low-level software development.<br><br>I am currently building strong fundamentals in C programming, microcontrollers, and computer architecture, with an emphasis on understanding memory, registers, and hardware–software interaction at a system level.<br><br>My academic and practical exposure includes core electronics fundamentals, digital electronics, number systems, and architectural understanding of microprocessors and microcontrollers. I am actively strengthening my ability to write, debug, and reason about low-level code through structured practice and hands-on experimentation.
 
 
